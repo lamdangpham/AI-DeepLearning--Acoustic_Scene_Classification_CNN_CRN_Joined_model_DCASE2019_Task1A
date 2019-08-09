@@ -1,4 +1,5 @@
 # CNN-RNN-Joined Model For Task 1A DCASE2019 Challenge
+http://dcase.community/challenge2019/task-acoustic-scene-classification-results-a
 
 # Hierarchy:
 - 01_Technique_Report: Technique report for DCASE2019 Challenge
