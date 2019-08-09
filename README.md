@@ -7,6 +7,7 @@ http://dcase.community/challenge2019/task-acoustic-scene-classification-results-
 
 # Note:
 - Spectrogram feature: Log-Mel (Librosa), CQT (Librosa), Gammatone filter (Auditory model)
+    + Refer scripts for feature extraction at: https://github.com/phamdanglam/Feature-Extraction-Acoustic-Scene-Classification-DCASE2016
 - Framework: Tensorflow 1.X
 - Team Ranking in task 1A - DCASE2019 challenge: 23/36
     + http://dcase.community/challenge2019/task-acoustic-scene-classification-results-a#teams-ranking
